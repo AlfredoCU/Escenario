@@ -1,0 +1,2 @@
+# Escenario
+Se desarrolla un paisaje usando técnicas de modelado básico.
